@@ -147,4 +147,4 @@ GPL-v3.0 — See LICENSE file
 
 ---
 
-**SilverArch Linux** — First Arch-based Tunisian distribution
+**SilverArch Linux Project** — Made With Love In Tunisia
